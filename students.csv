@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Math,Python,Statistics,Database,English,Attendance
+S001,Aarav Sharma,CSE,92,95,88,91,85,96
+S002,Priya Reddy,CSE,85,89,92,87,90,93
+S003,Rahul Kumar,IT,76,82,79,85,78,88
+S004,Ananya Rao,CSE,95,98,94,96,91,98
+S005,Vikram Singh,IT,62,70,68,73,65,80
+S006,Meera Patel,AI_DS,88,91,90,89,94,95
+S007,Arjun Verma,CSE,55,61,58,64,60,76
+S008,Sneha Gupta,AI_DS,91,93,96,90,88,97
+S009,Kiran Reddy,IT,48,52,45,55,50,72
+S010,Divya Nair,CSE,79,84,81,86,83,89
+S011,Rohan Das,AI_DS,67,75,72,70,74,84
+S012,Kavya Iyer,CSE,98,96,97,94,95,99
+S013,Aditya Rao,IT,58,63,61,59,66,78
+S014,Neha Joshi,AI_DS,82,87,85,88,90,92
+S015,Sanjay Kumar,CSE,43,49,46,51,48,68
+S016,Ishita Sen,IT,73,78,75,80,77,86
+S017,Manoj Reddy,AI_DS,89,85,91,87,84,94
+S018,Pooja Shah,CSE,64,68,70,66,72,82
+S019,Varun Mehta,IT,35,42,39,45,41,65
+S020,Harini Rao,AI_DS,94,92,95,93,97,98

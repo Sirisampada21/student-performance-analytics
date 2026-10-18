@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Math,Python,Statistics,Database,English,Attendance,Total_Marks,Average_Marks,Grade,Result
+S001,Aarav Sharma,CSE,92,95,88,91,85,96,451.0,90.2,A,Pass
+S002,Priya Reddy,CSE,85,89,92,87,90,93,443.0,88.6,B,Pass
+S003,Rahul Kumar,IT,76,82,79,85,78,88,400.0,80.0,B,Pass
+S004,Ananya Rao,CSE,95,98,94,96,91,98,474.0,94.8,A,Pass
+S005,Vikram Singh,IT,62,70,68,73,65,80,338.0,67.6,D,Pass
+S006,Meera Patel,AI_DS,88,91,90,89,94,95,452.0,90.4,A,Pass
+S007,Arjun Verma,CSE,55,61,58,64,60,76,298.0,59.6,E,Pass
+S008,Sneha Gupta,AI_DS,91,93,96,90,88,97,458.0,91.6,A,Pass
+S009,Kiran Reddy,IT,48,52,45,55,50,72,250.0,50.0,E,Pass
+S010,Divya Nair,CSE,79,84,81,86,83,89,413.0,82.6,B,Pass
+S011,Rohan Das,AI_DS,67,75,72,70,74,84,358.0,71.6,C,Pass
+S012,Kavya Iyer,CSE,98,96,97,94,95,99,480.0,96.0,A,Pass
+S013,Aditya Rao,IT,58,63,61,59,66,78,307.0,61.4,D,Pass
+S014,Neha Joshi,AI_DS,82,87,85,88,90,92,432.0,86.4,B,Pass
+S015,Sanjay Kumar,CSE,43,49,46,51,48,68,237.0,47.4,E,Pass
+S016,Ishita Sen,IT,73,78,75,80,77,86,383.0,76.6,C,Pass
+S017,Manoj Reddy,AI_DS,89,85,91,87,84,94,436.0,87.2,B,Pass
+S018,Pooja Shah,CSE,64,68,70,66,72,82,340.0,68.0,D,Pass
+S019,Varun Mehta,IT,35,42,39,45,41,65,202.0,40.4,E,Fail
+S020,Harini Rao,AI_DS,94,92,95,93,97,98,471.0,94.2,A,Pass
